@@ -1,0 +1,80 @@
+[
+  {
+    "id": "medieval",
+    "name": "Medieval Kingdom",
+    "cards": [
+      "You defeated a toy dragon.",
+      "A knight challenged you to a joke duel.",
+      "You tripped in heavy armor.",
+      "The king asked your opinion on pizza.",
+      "You found a goblin selling ice cream.",
+      "A catapult launched honey at you.",
+      "You received a cardboard shield.",
+      "Dragon made a funny face.",
+      "You met a wizard who only brews tea.",
+      "A knight fell while mounting a horse.",
+      "You saved the castle from a duck invasion.",
+      "A warrior tried teaching medieval dance.",
+      "The king mistook you for a jester.",
+      "You got a pink helmet.",
+      "A dragon napped near you.",
+      "The wizard confused potion with orange juice.",
+      "A knight lost a horse race with you.",
+      "You discovered a castle made of bread.",
+      "Goblin challenged you to cards.",
+      "You got a medal for saving a chicken."
+    ]
+  },
+  {
+    "id": "scooby-doo",
+    "name": "Mystery Gang",
+    "cards": [
+      "Scooby found a haunted sandwich.",
+      "Shaggy ran from a ghost in slippers.",
+      "Velma lost her glasses again.",
+      "Fred set a trap that backfired.",
+      "Daphne tripped over a trapdoor.",
+      "Scooby ate a suspicious pizza.",
+      "A ghost danced like a disco king.",
+      "Shaggy and Scooby hid in a barrel.",
+      "Velma solved a tiny puzzle.",
+      "Fred drove the Mystery Machine too fast.",
+      "Daphne found a hidden lever.",
+      "A ghost got stuck in cobwebs.",
+      "Scooby sniffed a clue on the floor.",
+      "Shaggy spilled a soda on a skeleton.",
+      "Velma discovered a secret passage.",
+      "Fred's plan scared a cat instead of a ghost.",
+      "Daphne screamed at a fake monster.",
+      "Scooby made friends with a bat.",
+      "Shaggy lost his sandwich to a ghost.",
+      "The gang celebrated finding the culprit."
+    ]
+  },
+  {
+    "id": "zombie",
+    "name": "Zombie Apocalypse",
+    "cards": [
+      "You found a dancing zombie.",
+      "A zombie tried to convince you to be vegetarian.",
+      "You tripped over a sleeping zombie.",
+      "Zombie asked for your autograph.",
+      "Zombie slipped on a banana peel.",
+      "You dropped your bag full of fake brains.",
+      "A zombie challenged you to karaoke.",
+      "Zombie got stuck in a fence.",
+      "You met a friendly zombie wearing a hat.",
+      "Zombie tried doing yoga.",
+      "You saved a zombie from getting tangled in a tree.",
+      "Zombie told a bad brain joke.",
+      "A zombie tumbled down the hill.",
+      "Zombie got lost looking for you.",
+      "You found a zombie with colorful shoes.",
+      "Zombie tried to teach you samba.",
+      "Zombie ate pizza instead of brains.",
+      "You became training buddies with a zombie.",
+      "Zombie hid behind a post.",
+      "Zombie made a peace sign to you."
+    ]
+  }
+]
