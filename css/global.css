@@ -1,4 +1,5 @@
-@import url("normalize.css");
+@import url("globals/normalize.css");
+@import url("globals/variables.css");
 @import url("partials/choose-game-section.css");
 @import url("partials/game-section.css");
 @import url("partials/menu-section.css");
